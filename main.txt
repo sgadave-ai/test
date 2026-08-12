@@ -1,4 +1,10 @@
 git clone git@github-work:sgadave-ai/test.git
+Making Commit on the Main Branch
 First Branch
 making second Commit on the feature-navbar
 Hii im Shreyas
+feature/footer 
+Came back on main
+Came back on main
+About Branch
+came back on main
